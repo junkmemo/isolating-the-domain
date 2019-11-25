@@ -9,7 +9,7 @@
 ```sh
 ./gradlew bootRun
 ```
-
+memo
 http://localhost:8080 でダッシュボード画面を表示
 
 ## 実行可能Jarのビルドと実行
